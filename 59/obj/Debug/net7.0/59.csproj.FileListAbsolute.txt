@@ -1,0 +1,14 @@
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.AssemblyInfoInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.AssemblyInfo.cs
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\bin\Debug\net7.0\59.exe
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\bin\Debug\net7.0\59.deps.json
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\bin\Debug\net7.0\59.runtimeconfig.json
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\bin\Debug\net7.0\59.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\bin\Debug\net7.0\59.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\refint\59.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\59.genruntimeconfig.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\59\obj\Debug\net7.0\ref\59.dll
